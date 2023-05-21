@@ -17,6 +17,7 @@ Another advantage of blockchain-based voting systems is that they are more acces
 <br>
 
 - ![All in one](https://github.com/pushan-alagiya/Elect-3.0/blob/master/ui/Screenshots/7.png)
+- ![All in one](https://github.com/pushan-alagiya/Elect-3.0/blob/master/ui/Screenshots/6.png)
 
 </details>
 
