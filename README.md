@@ -15,12 +15,17 @@ Another advantage of blockchain-based voting systems is that they are more acces
 <details>
 <summary>Screenshots</summary>
 <br>
-- ![alt text](https://github.com/pushan-alagiya/Elect-3.0/blob/master/ui/Screenshots/1.png)
-- ![alt text](https://github.com/pushan-alagiya/Elect-3.0/blob/master/ui/Screenshots/2.png)
-- ![alt text](https://github.com/pushan-alagiya/Elect-3.0/blob/master/ui/Screenshots/3.png)
-- ![alt text](https://github.com/pushan-alagiya/Elect-3.0/blob/master/ui/Screenshots/4.png)
-- ![alt text](https://github.com/pushan-alagiya/Elect-3.0/blob/master/ui/Screenshots/5.png)
-- ![alt text](https://github.com/pushan-alagiya/Elect-3.0/blob/master/ui/Screenshots/6.png)
+* ![](https://github.com/pushan-alagiya/Elect-3.0/blob/master/ui/Screenshots/1.png)
+
+- ![](https://github.com/pushan-alagiya/Elect-3.0/blob/master/ui/Screenshots/2.png)
+
+- ![](https://github.com/pushan-alagiya/Elect-3.0/blob/master/ui/Screenshots/3.png)
+
+- ![](https://github.com/pushan-alagiya/Elect-3.0/blob/master/ui/Screenshots/4.png)
+
+- ![](https://github.com/pushan-alagiya/Elect-3.0/blob/master/ui/Screenshots/5.png)
+
+- ![](https://github.com/pushan-alagiya/Elect-3.0/blob/master/ui/Screenshots/6.png)
 </details>
 
 <details>
