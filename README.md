@@ -1,1 +1,75 @@
 # Elect-3.0
+
+### Any feedback will be appriciated.
+
+Blockchain-based voting systems are a new and innovative way to vote. They use blockchain technology to store and verify votes, which makes them more secure and transparent than traditional voting systems.
+
+In a blockchain-based voting system, each vote is stored as a transaction on the blockchain. This means that the vote is tamper-proof and cannot be changed or deleted. The blockchain also makes it possible to track the votes in real time, which gives voters confidence that their votes are being counted accurately.
+
+Another advantage of blockchain-based voting systems is that they are more accessible than traditional voting systems. Voters can cast their votes from anywhere in the world, as long as they have an internet connection. This makes it easier for people to vote, especially those who live in rural areas or who have difficulty getting to the polls.
+
+> Detailed Working of the project
+
+-
+
+<details>
+<summary>Screenshots</summary>
+<br>
+- ![alt text](/ui/Screenshots/1.png)
+- ![alt text](/ui/Screenshots/2.png)
+- ![alt text](/ui/Screenshots/3.png)
+- ![alt text](/ui/Screenshots/4.png)
+- ![alt text](/ui/Screenshots/5.png)
+- ![alt text](/ui/Screenshots/6.png)
+</details>
+
+<details>
+<summary>Advantages of Blockchain based Voting System</summary>
+<br>
+    Security: Blockchain technology is very secure and makes it very difficult to tamper with votes.
+    Transparency: Blockchain technology makes it possible to track the votes in real time, which gives voters confidence that their votes are being counted accurately.
+    Accessibility: Blockchain-based voting systems are more accessible than traditional voting systems, as voters can cast their votes from anywhere in the world.
+</details>
+
+### Installing and Running Project
+
+Clone Project
+
+```
+git clone git@github.com:sanattaori/techdot.git && cd techdot
+```
+
+Install Dependencies
+
+```
+npm install
+```
+
+Running Project
+
+```
+node index.js
+```
+
+If dependency problem occurs delete package.json, Run
+
+```
+npm init
+```
+
+Again Install dependencies and run project.
+
+### Running Project
+
+Step 1 - Setting up Environment
+Instead of developing the app against the live Ethereum blockchain, we have used an in-memory blockchain (think of it as a blockchain simulator) called testrpc.
+
+```
+npm install ethereumjs-testrpc web3
+```
+
+Step 2 - Creating Voting Smart Contract
+
+```
+npm install solc
+```
