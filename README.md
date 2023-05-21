@@ -1,6 +1,8 @@
 # Elect-3.0
 
-### Any feedback will be appriciated.
+##### Any feedback will be appriciated.
+
+</hr>
 
 The Elect 3.0 is developed to overcome the flaws of EVM system. So directly EVM will be replaced by touch screen interface having the great user interface and high security. The project is based on an emerging tech of web3 - The Blockchain.
 
@@ -13,20 +15,20 @@ Another advantage of blockchain-based voting systems is that they are more acces
 <details>
 <summary>Screenshots</summary>
 <br>
-- ![alt text](/ui/Screenshots/1.png)
-- ![alt text](/ui/Screenshots/2.png)
-- ![alt text](/ui/Screenshots/3.png)
-- ![alt text](/ui/Screenshots/4.png)
-- ![alt text](/ui/Screenshots/5.png)
-- ![alt text](/ui/Screenshots/6.png)
+- ![alt text](https://github.com/pushan-alagiya/Elect-3.0/blob/master/ui/Screenshots/1.png)
+- ![alt text](https://github.com/pushan-alagiya/Elect-3.0/blob/master/ui/Screenshots/2.png)
+- ![alt text](https://github.com/pushan-alagiya/Elect-3.0/blob/master/ui/Screenshots/3.png)
+- ![alt text](https://github.com/pushan-alagiya/Elect-3.0/blob/master/ui/Screenshots/4.png)
+- ![alt text](https://github.com/pushan-alagiya/Elect-3.0/blob/master/ui/Screenshots/5.png)
+- ![alt text](https://github.com/pushan-alagiya/Elect-3.0/blob/master/ui/Screenshots/6.png)
 </details>
 
 <details>
 <summary>Advantages of Blockchain based Voting System</summary>
 <br>
-    Security: Blockchain technology is very secure and makes it very difficult to tamper with votes.
-    Transparency: Blockchain technology makes it possible to track the votes in real time, which gives voters confidence that their votes are being counted accurately.
-    Accessibility: Blockchain-based voting systems are more accessible than traditional voting systems, as voters can cast their votes from anywhere in the world.
+- Security: Blockchain technology is very secure and makes it very difficult to tamper with votes.
+- Transparency: Blockchain technology makes it possible to track the votes in real time, which gives voters confidence that their votes are being counted accurately.
+- Accessibility: Blockchain-based voting systems are more accessible than traditional voting systems, as voters can cast their votes from anywhere in the world.
 </details>
 
 ### Installing and Running Project
