@@ -15,13 +15,14 @@ Another advantage of blockchain-based voting systems is that they are more acces
 <details>
 <summary>Screenshots</summary>
 <br>
-![All in one](https://github.com/pushan-alagiya/Elect-3.0/blob/master/ui/Screenshots/7.png)
+
+- ![All in one](https://github.com/pushan-alagiya/Elect-3.0/blob/master/ui/Screenshots/7.png)
+
 </details>
 
 <details>
 <summary>Advantages of Blockchain based Voting System</summary>
 <br>
-
 - Security: Blockchain technology is very secure and makes it very difficult to tamper with votes.
 
 - Transparency: Blockchain technology makes it possible to track the votes in real time, which gives voters confidence that their votes are being counted accurately.
