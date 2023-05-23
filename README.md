@@ -33,12 +33,6 @@ Another advantage of blockchain-based voting systems is that they are more acces
 
 ### Installing and Running Project
 
-Clone Project
-
-```
-git clone git@github.com:sanattaori/techdot.git && cd techdot
-```
-
 Install Dependencies
 
 ```
